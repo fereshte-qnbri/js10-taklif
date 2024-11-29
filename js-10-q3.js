@@ -11,3 +11,4 @@ function testVarScope() {
   
     console.log(x);
   }
+  testLetScope();
